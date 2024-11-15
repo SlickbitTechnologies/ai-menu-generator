@@ -23,30 +23,13 @@ Follow these steps to set up the project locally.
 1. **Clone the repository**
    git clone https://github.com/SlickbitTechnologies/ai-menu-generator.git
 
-2. Navigate into the project directory
+2. **Navigate into the project directory**
     cd ai-menu-generator
 
-3. Install dependencies
+3. **Install dependencies**
     npm install
-    
-4. Start the development server
+
+4. **Start the development server**
     npm run dev
 
 **The app should now be running on** http://localhost:8089
-
-📂 Folder Structure
-ai-menu-generator/
-├── public/               # Public assets and index.html
-├── src/
-    ├──client
-    │   ├── components/       # Reusable components
-    │   ├── pages/            # Page components
-    │   ├── assets/           # Project icons and fonts
-    │   ├── context/          # Context providers for state management(Redux)
-    │   ├── App.jsx           # Main app component
-    │   └── main.jsx          # ReactDOM entry point
-    ├──server
-    │   ├── controllers/      # Business logic
-    │   ├── routes/           # Api links/navigations
-    │   ├── utils/            # Reusable logic
-└── package.json          # Project metadata and dependencies
