@@ -34,15 +34,15 @@ Follow these steps to set up the project locally.
 
 ---
 
-🧩 Usage
-Setting Up Environment Variables
+🧩 **Usage**
+Setting Up Environment Variables:
 
--create a .env file in the root of your project and add below two lines, Replace your-api-key with openAi secret key.
+- create a .env file in the root of your project and add below two lines, Replace your-api-key with your openAi secret key.
 
-PORT=8089
-OPENAI_KEY=your-api-key
+> PORT=8089
+> OPENAI_KEY=your-api-key
 
 ---
 
 📞 Contact
-info@slickbit.com
+- info@slickbit.com
