@@ -37,7 +37,7 @@ Follow these steps to set up the project locally.
 🧩 **Usage**
 Setting Up Environment Variables:
 
-- create a .env file in the root of your project and add below two lines, Replace your-api-key with your openAi secret key.
+Create a .env file in the root of your project and add below two lines, Replace your-api-key with your openAi secret key.
 
 > PORT=8089
 
