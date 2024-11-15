@@ -10,7 +10,8 @@ export const generateMenu = async (req, res) => {
     item_name: "Chicken pizza", 
     item_description: "Chicken pizza is a delicious variation of the traditional Italian dish, typically consisting of a flavorful combination of ingredients"
     price: 20
-    }].`;
+    }].
+    Give result only in the example output json format without any extra text`;
   const thread = await openai.beta.threads.create();
   const threadId = thread.id;
 
