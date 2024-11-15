@@ -26,10 +26,10 @@ Follow these steps to set up the project locally.
 2. Navigate into the project directory
     cd ai-menu-generator
 
-    3.Install dependencies
+3. Install dependencies
     npm install
-
-    4.Start the development server
+    
+4. Start the development server
     npm run dev
 
 **The app should now be running on** http://localhost:8089
