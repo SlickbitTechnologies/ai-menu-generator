@@ -5,7 +5,6 @@
 
 ![Screenshot of Project](./src/client/assets/project-screenshot.png)
 
----
 
 ## 📦 Installation
 
@@ -35,6 +34,7 @@ Follow these steps to set up the project locally.
 ---
 
 🧩 **Usage**
+
 Setting Up Environment Variables:
 
 Create a .env file in the root of your project and add below two lines, Replace your-api-key with your openAi secret key.
