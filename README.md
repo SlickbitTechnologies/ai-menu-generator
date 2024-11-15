@@ -40,6 +40,7 @@ Setting Up Environment Variables:
 - create a .env file in the root of your project and add below two lines, Replace your-api-key with your openAi secret key.
 
 > PORT=8089
+
 > OPENAI_KEY=your-api-key
 
 ---
